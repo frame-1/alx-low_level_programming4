@@ -5,7 +5,6 @@
  *
  * @h: head of the list
  * Return: the number of node
-
  */
 
 size_t dlistint_len(const dlistint_t *h)
